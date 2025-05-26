@@ -3,7 +3,7 @@ This repository contains the example python codes provided to the students of th
 
 # Scripts:
 
-  1. _SDS1102CNL+_control.py_ and _SDS1102CNL+_control_more_instructions.py_: Control scripts for SDS1102CNL+ oscilloscope using pyvisa,
+  1. _SDS1102CNL+_control.py_ and _SDS1102CNL+_control_more_instructions.py_: Control scripts for SDS1102CNL+ AWG using pyvisa,
   2. _SDG810.py_: Control script example for SDG810 AWG using pyvisa,
   3. _file_io.py_: Example on how to perform file I/O,
   4. _central_limit_theorem_example.py_: Visualization on the central limit theorem using a Montecarlo simulation,
@@ -17,4 +17,4 @@ This repository contains the example python codes provided to the students of th
   12. _plotting_basic_code.py_: Script that shows how to perform simple plots using matplotlib,
   13. _process_audio.py_: Example script to load and play audio using pyaudio and wave libraries,
   14. _spectrogram_examplepy_: Example script to show what is a spectrogram and how we can plot it with matplotlib,
-  15. _waveform_capture.py_: Script showing how to capture waveforms using SDS1102CNL+ oscilloscope.
+  15. _waveform_capture.py_: Script showing how to capture waveforms using an oscilloscope.
